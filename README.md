@@ -12,3 +12,4 @@ Cluster analysis is one of unsupervised learning techniques used for discovering
 - Summary_N50.html : Visual summary of simulation result when N = 200(50 observation for each four cluster) and nunber of variables = 10, 50 ,100
 - Summary_final.html : Visual summary of simulation result in the thesis(number of variable = 10, 50, 100, N = 200, 400)
 - 확률적 Reduced K-means 군집분석 : Thesis for my Master's degree
+- EM formula notes for PRKM.pdf : Formula derivation for EM algorithm for PRKM
